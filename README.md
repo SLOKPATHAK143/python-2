@@ -1,6 +1,8 @@
 # python-2
-Alpha command
-this  is a silent voice of learning and smart ways to get the secret control of.
-this file is attached as requested by the secret of success in grup closed permanently I think u should be able to clone intact.
+Here, the program evaluates the test expression and will execute statement(s) only if the test expression is True.
 
-xr
+If the test expression is False, the statement(s) is not executed.
+
+In Python, the body of the if statement is indicated by the indentation. The body starts with an indentation and the first unindented line marks the end.
+
+Python interprets non-zero values as True. None and 0 are interpreted as False.
